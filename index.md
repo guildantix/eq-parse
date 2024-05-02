@@ -25,7 +25,7 @@
 
 ## Download
 
-The current release version is v0.1.8 and you can find the details [here](https://github.com/guildantix/eq-nag/releases/latest).
+The current release version can be found [here](https://github.com/guildantix/eq-nag/releases/latest).
 
 ## Discord
 
