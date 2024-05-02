@@ -17,7 +17,7 @@
 [Quick Share](/eq-nag/guides/quick-share)
 
 [Death Recap](/eq-nag/guides/death-recap)
-![new](https://user-images.githubusercontent.com/66176124/193346159-c4652bf7-7d83-4aad-87d3-2a6b69548ec3.png)
+<!-- ![new](https://user-images.githubusercontent.com/66176124/193346159-c4652bf7-7d83-4aad-87d3-2a6b69548ec3.png) -->
 
 ## Documentation
 
@@ -31,4 +31,26 @@ The current release version can be found [here](https://github.com/guildantix/eq
 
 Join our discord server: [https://discord.gg/e3Z8PR8EXE](https://discord.gg/e3Z8PR8EXE)
 
+<!-- 
+## Road Map
 
+### Currently in Development
+
+- [ ] Death Recap - Detailed description of what killed you.
+- [ ] Creating a self-signed installation certificate.
+- [ ] Adding more organization options to the trigger library.
+- [ ] Quickshare to allow users to quickly share their triggers or installed packages with another player.
+
+### On the Horizon
+- [ ] Adding categories and search features to the package manager. Additionally, segregating installed packages from available packages.
+- [ ] Adding healing done and healing received to the floating combat text.
+- [ ] Adding more options to the buff timer wizard.
+
+### Odds and Ends
+- [ ] Sortable trigger folders.
+- [ ] Default trigger folder sort (None, Alpha, Reverse Alpha)
+
+
+*Odds and ends can be done at any time*
+ -->
+ 
