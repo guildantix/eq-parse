@@ -31,6 +31,10 @@ The current release version can be found [here](https://github.com/guildantix/eq
 
 Join our discord server: [https://discord.gg/e3Z8PR8EXE](https://discord.gg/e3Z8PR8EXE)
 
+## Support
+
+If you would like to support the development of Nag, you can do that on Patreon: [https://www.patreon.com/EverQuestNag](https://www.patreon.com/EverQuestNag).
+
 <!-- 
 ## Road Map
 
